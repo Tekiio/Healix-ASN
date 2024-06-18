@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_tkio_list_asn_structure_cod">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>List of ASN Structure Code</name>
+  <customvalues>
+    <customvalue scriptid="val_400961_7076975_sb1_122">
+      <isinactive>F</isinactive>
+      <value>0001 = SOPI</value>
+    </customvalue>
+    <customvalue scriptid="val_400962_7076975_sb1_970">
+      <isinactive>F</isinactive>
+      <value>0004 = SOI</value>
+    </customvalue>
+  </customvalues>
+</customlist>

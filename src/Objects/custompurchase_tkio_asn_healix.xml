@@ -1,0 +1,25 @@
+<customtransactiontype scriptid="custompurchase_tkio_asn_healix">
+  <cancloseorder>F</cancloseorder>
+  <iscredit>T</iscredit>
+  <isposting>F</isposting>
+  <isvoidable>F</isvoidable>
+  <name>ASN</name>
+  <showstatus>F</showstatus>
+  <transactionstyle>PURCHASE</transactionstyle>
+  <accounting>
+    <specifyaccountontransaction>F</specifyaccountontransaction>
+  </accounting>
+  <permissions>
+    <permission>
+      <permittedlevel>FULL</permittedlevel>
+      <permittedrole>ADMINISTRATOR</permittedrole>
+    </permission>
+  </permissions>
+  <links>
+    <link>
+      <linkcategory>BASICTRANSACTIONSPURCHASESVENDORS</linkcategory>
+      <linklabel>ASN/EPCIS</linklabel>
+      <linktasktype>LIST</linktasktype>
+    </link>
+  </links>
+</customtransactiontype>

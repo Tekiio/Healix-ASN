@@ -1,0 +1,32 @@
+<customlist scriptid="customlist_list_of_shipment_tra_ref">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>List of shipment tracking refe</name>
+  <customvalues>
+    <customvalue scriptid="val_403624_7076975_sb1_227">
+      <isinactive>F</isinactive>
+      <value>2I = Tracking Number </value>
+    </customvalue>
+    <customvalue scriptid="val_403625_7076975_sb1_593">
+      <isinactive>F</isinactive>
+      <value>BM = BOL</value>
+    </customvalue>
+    <customvalue scriptid="val_403626_7076975_sb1_981">
+      <isinactive>F</isinactive>
+      <value>CN = Carrier Pro</value>
+    </customvalue>
+    <customvalue scriptid="val_403627_7076975_sb1_765">
+      <isinactive>F</isinactive>
+      <value>MB = Master BOL</value>
+    </customvalue>
+    <customvalue scriptid="val_403628_7076975_sb1_998">
+      <isinactive>F</isinactive>
+      <value>POR = </value>
+    </customvalue>
+    <customvalue scriptid="val_403629_7076975_sb1_673">
+      <isinactive>F</isinactive>
+      <value>VR = Vendor ID Number</value>
+    </customvalue>
+  </customvalues>
+</customlist>

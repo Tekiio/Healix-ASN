@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_tkio_tran_set_pur_code_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Transaction Set Purpose Code L</name>
+  <customvalues>
+    <customvalue scriptid="val_400955_7076975_sb1_400">
+      <isinactive>F</isinactive>
+      <value>00 = Original</value>
+    </customvalue>
+    <customvalue scriptid="val_400956_7076975_sb1_608">
+      <isinactive>F</isinactive>
+      <value>05 = Replace</value>
+    </customvalue>
+  </customvalues>
+</customlist>

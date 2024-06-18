@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_trans_type_code_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Transaction Type Code List</name>
+  <customvalues>
+    <customvalue scriptid="val_403613_7076975_sb1_716">
+      <isinactive>F</isinactive>
+      <value>AS = Shipment Advice</value>
+    </customvalue>
+    <customvalue scriptid="val_403614_7076975_sb1_874">
+      <isinactive>F</isinactive>
+      <value>DO = Drop Shipment</value>
+    </customvalue>
+  </customvalues>
+</customlist>

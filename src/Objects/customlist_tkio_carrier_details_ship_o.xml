@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_tkio_carrier_details_ship_o">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>List carrier details shipm ord</name>
+  <customvalues>
+    <customvalue scriptid="val_403618_7076975_sb1_834">
+      <isinactive>F</isinactive>
+      <value>CC = Shipment Complete</value>
+    </customvalue>
+    <customvalue scriptid="val_403619_7076975_sb1_276">
+      <isinactive>F</isinactive>
+      <value>PR = Partial Shipment</value>
+    </customvalue>
+  </customvalues>
+</customlist>
